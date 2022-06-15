@@ -1,2 +1,2 @@
-# 7-Web-Developer
+# 7-Web-Development
 Applications in Web programming
